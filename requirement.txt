@@ -1,0 +1,16 @@
+streamlit 
+PyPDF2 import PdfReader
+langchain.text_splitter  
+RecursiveCharacterTextSplitter
+langchain_google_genai  
+GoogleGenerativeAIEmbeddings
+google.generativeai 
+langchain.vectorstores  
+FAISS
+langchain_google_genai 
+ChatGoogleGenerativeAI
+langchain.chains.question_answering
+load_qa_chain
+langchain.prompts 
+PromptTemplate
+os
