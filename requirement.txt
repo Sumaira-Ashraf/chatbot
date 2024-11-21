@@ -1,5 +1,6 @@
 streamlit 
-PyPDF2 import PdfReader
+PyPDF2 
+PdfReader
 langchain.text_splitter  
 RecursiveCharacterTextSplitter
 langchain_google_genai  
